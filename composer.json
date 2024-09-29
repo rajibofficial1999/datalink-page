@@ -1,0 +1,19 @@
+{
+    "name": "hr/duo-video-verify",
+    "description": "custom application",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "config/core.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Rajib Ha San",
+            "email": "rajibofficial1999@gmail.com"
+        }
+    ],
+    "require": {}
+}
